@@ -13,7 +13,7 @@ You also will need GIT, MySQL database and recent versions of Composer, Node.JS 
 	- Modify APP_URL according to the assigned URL in your server for this app
 	- Modify DB_HOST, DB_PORT, DB_DATABASE, DB_USERNAME and DB_PASSWORD according to your MySQL database
 	- Modify RECORDS_PER_PAGE (for pagination) if you need it. Default is 10 records per page.
-5. Run composer install.
-6. Run npm install.
-7. Run php artisan migrate.
+5. Run $ composer install in the root folder of the project
+6. Run $ npm install in the root folder of the project
+7. Run $ php artisan migrate in the root folder of the project
 8. Check the app in a browser.
