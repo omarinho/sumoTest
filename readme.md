@@ -6,7 +6,7 @@ You also will need a GIT, MySQL database and recent versions of Composer, Node.J
 
 ## Installation
 
-0. Clone the repository in the directoty you configure for this app: $ git clone https://github.com/omarinho/sumoTest.git
+0. Clone the repository: $ git clone https://github.com/omarinho/sumoTest.git
 1. Configure your webserver so the test URL point to /public directory of this app
 2. Make sure the folders permissions are correctly set according to your web user and OS.
 2. Copy .env.developer to .env
