@@ -21,5 +21,5 @@ You also will need GIT, MySQL database and recent versions of Composer, Node.JS 
 ## Using the web app
 
 1. You need to register first.
-2. After that you will be able to see two options in the upper nav bar: Email List (the tabular page and Create New Email
+2. After that you will be able to see two options in the upper nav bar: Email List (the tabular page) and Create New Email
 3. In the tabular page you also can delete or edit an email.
