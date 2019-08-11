@@ -23,3 +23,6 @@ You also will need GIT, MySQL database and recent versions of Composer, Node.JS 
 1. You need to register first.
 2. After that you will be able to see two options in the upper nav bar: Email List (the tabular page) and Create New Email
 3. In the tabular page you also can delete or edit an email.
+
+- This app uses CSS Bootstrap 4.
+- Also, it uses React for the "Create Email" form and "Edit Email" form. React components are in /resources/js/components/
